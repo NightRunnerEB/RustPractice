@@ -1,0 +1,3 @@
+This is a test file.
+It contains multiple lines of text.
+Each line will be counted by the Rust program.
